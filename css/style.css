@@ -1235,3 +1235,81 @@ p.subtitle {
 		border: 2px solid white;
 	}
 }
+
+  /* Código para hacer un iframe responsive*/
+
+.responsive-iframe-container-procedimientos, 
+.responsive-iframe-container,
+.responsive-iframe-container-outline {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px;
+    height: 0;
+    overflow: hidden;
+}
+
+
+
+.responsive-iframe-container-procedimientos iframe,
+.responsive-iframe-container iframe,   
+.vresponsive-iframe-container object,  
+.vresponsive-iframe-container embed,
+.responsive-iframe-container-outline iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.responsive-iframe-container-procedimientos iframe {
+	padding-left: 10%;
+    padding-right: 10%;
+}
+.responsive-iframe-container-outline iframe {
+	padding-left: 5%;
+    padding-right: 5%;
+}
+iframe {
+	&.responsive-iframe-container-publicaciones {
+    position: relative;
+    padding-bottom:0px;
+    padding-top: 30px;
+    height: 400px;
+    overflow: hidden;}
+    &.responsive-iframe-container-slider {
+    position: relative;
+    padding-bottom:0px;
+    padding-top: 30px;
+    height: 600px;
+    width: 100%;
+    overflow: hidden;}
+    &.responsive-iframe-container-outline{
+    position: relative;
+    padding-bottom:0px;
+    padding-top: 30px;
+    height: 600px;
+    overflow: hidden;
+    }
+}
+
+
+
+@media(min-width:993px) {
+	.responsive-iframe-container iframe,   
+	.vresponsive-iframe-container object,  
+	.vresponsive-iframe-container embed {
+		width:720px;
+		height:435px;
+		position:relative;
+	}
+	iframe {
+		&.responsive-iframe-container-publicaciones {
+
+	    }
+	    &.responsive-iframe-container-slider {
+	    }
+	    &.responsive-iframe-container-outline{
+	    }
+	    
+	}
+}
