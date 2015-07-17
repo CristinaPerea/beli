@@ -138,7 +138,7 @@ a, a:hover, a:focus {
 
 
 /* === CTA Section, Social & Partners === */
-#cta-section, #partners-section, #social-section {
+#cta-section, #cta-section-wp1, #cta-section-wp2, #cta-section-wp3, #cta-section-wp4, #cta-section-wp5, #partners-section, #social-section {
 	background: #f8f8f8 url('../../img/pat-bg.png') repeat;
 }
 

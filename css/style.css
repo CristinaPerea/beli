@@ -1236,6 +1236,9 @@ p.subtitle {
 	}
 }
 
+div.selectores-drive{
+	float: right;
+}
   /* Código para hacer un iframe responsive*/
 
 .responsive-iframe-container-procedimientos, 
