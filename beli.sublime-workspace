@@ -1,0 +1,534 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"respo",
+				"responsive-iframe-container-outline"
+			],
+			[
+				"numero",
+				"numeroTotalDeHerramientas"
+			],
+			[
+				"nume",
+				"numeroDeHerramientasAMostrarEnSlider"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"car",
+				"text-carousel-intro-section"
+			],
+			[
+				"respon",
+				"responsive-iframe-container-procedimientos"
+			],
+			[
+				"responsive-",
+				"responsive-iframe-container"
+			],
+			[
+				"icon-",
+				"icon-file-text2"
+			],
+			[
+				"session_",
+				"session_start"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"sub",
+				"substring(from, to?)"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"link",
+				"link	Tag"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"P",
+				"Package Control: Install Package"
+			],
+			[
+				"Emmet",
+				"Set Syntax: Emmet"
+			],
+			[
+				"Emme",
+				"Set Syntax: Emmet"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"diff",
+				"Set Syntax: Diff"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"  import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf,'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"  import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/beli"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/rcis/js/manejoSliderHerramientas.js",
+		"/C/xampp/htdocs/rcis/css/skin/cool-gray.scss",
+		"/C/xampp/htdocs/rcis/css/style.scss",
+		"/C/xampp/htdocs/rcis/css/mobile.css",
+		"/C/xampp/htdocs/rcis/css/skinGlobal.scss",
+		"/C/xampp/htdocs/rcis/css/bootstrapTheme.css",
+		"/C/xampp/htdocs/rcis/inc/bootstrap/css/bootstrap.min.css",
+		"/C/xampp/htdocs/rcis/cuerpoindex.html",
+		"/C/xampp/htdocs/rcis/listaHerramientas.php",
+		"/C/xampp/htdocs/rcis/participantesCSV.php",
+		"/C/xampp/htdocs/rcis/sliderHerramientasJSON.php",
+		"/C/xampp/htdocs/rcis/css/styleListaHerramientasCompleta.scss",
+		"/C/xampp/htdocs/rcis/prueba.html",
+		"/C/xampp/htdocs/rcis/tablaTotal.php",
+		"/C/xampp/htdocs/rcis/js/manejoDeTablas.js",
+		"/C/xampp/htdocs/rcis/index.php",
+		"/C/xampp/htdocs/rcis/errorlogin.php",
+		"/C/Users/MarcosAlberto/Desktop/DrupalAcademy Sesión 3/Notas.txt",
+		"/C/xampp/htdocs/rcis/js/manejoListaDeHerramientas.js",
+		"/C/xampp/htdocs/rcis/lectorCSV.php",
+		"/C/Users/MarcosAlberto/Desktop/Nueva carpeta/fontsHerramientas.css",
+		"/C/xampp/htdocs/rcis/test-table-ResumenOriginal.html",
+		"/C/xampp/htdocs/rcis/tablaResumen.php",
+		"/C/Users/MarcosAlberto/Downloads/RCIS (6).csv",
+		"/C/Users/MarcosAlberto/Downloads/CIS (3).csv",
+		"/C/Users/MarcosAlberto/Downloads/RCIS (1).csv",
+		"/C/xampp/htdocs/rcis/enviarEmail.php",
+		"/C/xampp/htdocs/rcis/js/theme.js",
+		"/C/xampp/htdocs/rcis/scriptsSliderHerramientasFinales.html",
+		"/C/xampp/htdocs/rcis/logged.php",
+		"/C/xampp/htdocs/rcis/css/cabeceraTextosResponsive.scss",
+		"/C/Users/MarcosAlberto/Desktop/DrupalAcademy Sesión 7/Notas.txt",
+		"/C/Users/MarcosAlberto/Downloads/dsa17_bdini7.sql",
+		"/C/xampp/htdocs/rcis/css/style.css",
+		"/C/xampp/htdocs/rcis/js/loginMobile.js",
+		"/C/xampp/htdocs/rcis/sliderHerramientasResponsive.html",
+		"/C/xampp/htdocs/rcis/sliderHerramientasJSON.html",
+		"/C/xampp/htdocs/rcis/herramientasJSON/prueba2.json",
+		"/C/xampp/htdocs/rcis/herramientasJSON/prueba.json",
+		"/C/xampp/htdocs/pruebaJSONPhp/prueba2.json",
+		"/C/xampp/htdocs/pruebaJSONPhp/sliderHerramientasJSON.php",
+		"/C/xampp/htdocs/rcis/test-table-Resumen.html",
+		"/C/xampp/htdocs/rcis/test-table-Total.html",
+		"/C/Users/MarcosAlberto/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/MarcosAlberto/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/xampp/htdocs/rcis/js/cambiaVistaRecursosDrive.js",
+		"/C/xampp/htdocs/rcis/css/fontsDrive.css",
+		"/C/xampp/htdocs/rcis/css/fuenteDrive.css",
+		"/C/xampp/htdocs/rcis/css/estilo-slider-herramientas.css",
+		"/C/Users/MarcosAlberto/Desktop/click.html",
+		"/C/xampp/htdocs/owlCarousel/demos/one.html",
+		"/C/xampp/htdocs/owlCarousel/demos/images.html",
+		"/C/xampp/htdocs/rcisPrueba/test-table-pro.html",
+		"/C/xampp/htdocs/rcisPrueba/index.php",
+		"/C/xampp/htdocs/rcis/publicaciones-rcis.html",
+		"/C/xampp/htdocs/rcis/test-table-pro.html",
+		"/C/xampp/htdocs/rcis/publicaciones-rcis.table",
+		"/C/Users/MarcosAlberto/Downloads/publicaciones-rcis.table",
+		"/C/xampp/htdocs/rcis/logout.php",
+		"/C/Users/MarcosAlberto/Desktop/test/index.html",
+		"/C/xampp/htdocs/rcis/index.html",
+		"/C/xampp/htdocs/rcis/logged.html",
+		"/C/Users/MarcosAlberto/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/MarcosAlberto/AppData/Roaming/Sublime Text 3/Packages/SublimeOnSaveBuild/SublimeOnSaveBuild.sublime-settings",
+		"/C/Users/MarcosAlberto/AppData/Roaming/Sublime Text 3/Packages/User/SublimeOnSaveBuild.sublime-settings",
+		"/C/xampp/htdocs/rcis/scss/style.scss",
+		"/C/xampp/htdocs/rcis/scss/style.css",
+		"/C/xampp/htdocs/rcis/scss/cool-gray.scss",
+		"/C/xampp/htdocs/rcis/scss/cool-gray.css",
+		"/C/Users/MarcosAlberto/Desktop/jquery-ui-1.11.4.custom/index.html",
+		"/C/xampp/htdocs/rcis/css/paragridma.css",
+		"/C/xampp/htdocs/calendarios/index.html",
+		"/C/xampp/htdocs/rcis/css/reset.css",
+		"/C/xampp/htdocs/rcis/css/skin/cool-grayOriginal.css",
+		"/C/xampp/htdocs/parallax/scrollTransition.js",
+		"/C/xampp/htdocs/rcis/css/skin/cool-gray.css",
+		"/C/xampp/htdocs/rcis/index-2.html",
+		"/C/xampp/htdocs/parallax/estilo2.css",
+		"/C/xampp/htdocs/parallax/main.js",
+		"/C/xampp/htdocs/parallax/index2.html",
+		"/C/xampp/htdocs/parallax/estilo.css",
+		"/C/xampp/htdocs/parallax/index.html",
+		"/C/Users/MarcosAlberto/Desktop/DrupalAcademy Sesion 5/Notas 5.txt",
+		"/C/Users/MarcosAlberto/Desktop/DrupalAcademy Session 4/Notas 4.txt",
+		"/C/Users/MarcosAlberto/Desktop/PHP.txt",
+		"/C/xampp/htdocs/E01/index.html",
+		"/C/xampp/htdocs/bootstrap/drupalacademy01/index.html",
+		"/C/Users/MarcosAlberto/Desktop/Nueva carpeta/SOS_ENTREGA_FINAL/war/src/js/main/birds.min.js",
+		"/C/xampp/mysql/my-default.ini",
+		"/C/Users/MarcosAlberto/Desktop/Nueva carpeta/SOS_ENTREGA_FINAL/war/src/js/main/dashboard_main.js",
+		"/C/Users/MarcosAlberto/git/sos-2015-02/sos-2015-02/war/preChargeCo.csv",
+		"/C/Users/MarcosAlberto/git/sos-2015-02/sos-2015-02/war/preChargeIn3.csv",
+		"/C/Users/MarcosAlberto/git/sos-2015-02/sos-2015-02/war/preChargeIn.csv",
+		"/D/Dropbox/Material común/Trabajo.txt",
+		"/D/Dropbox/Fabrik/annotations.json",
+		"/C/Users/MarcosAlberto/Desktop/la.csv",
+		"/C/Users/MarcosAlberto/Desktop/prueba/prueba/c.cpp",
+		"/C/Users/MarcosAlberto/Desktop/preChargeIn3.csv",
+		"/C/Users/MarcosAlberto/Desktop/preChargeCo3.csv",
+		"/C/Users/MarcosAlberto/Desktop/preChargeCo2.csv",
+		"/C/Users/MarcosAlberto/Downloads/descarga.csv",
+		"/D/Dropbox/Facultad/Histórico/2/ADA/ADA - Análisis de Algoritmos/2002-2003/ADA/practiObligatoria0304/temporizadores/practiObligatoria0304/TemporizadorBusVoraz.java",
+		"/D/Dropbox/Facultad Grado/2/AC/Prácticas/Práctica 10/Soluciones.txt",
+		"/C/Users/MarcosAlberto/Google Drive/FAC GRADO/ASD (No completa - Actual)/Prácticas/P7ASD (1)/hola_mundo_avanzado_en_anillo.c",
+		"/C/xampp/htdocs/bootstrap/index.php",
+		"/D/Dropbox/Facultad Grado/2/AC/Prácticas/Práctica 11/P11ac/P11ac/practica11.cpp",
+		"/C/Users/MarcosAlberto/git/sos-2015-02/sos-2015-02/war/css/estilos.css",
+		"/C/xampp/htdocs/bootstrap/02grid/index.html",
+		"/C/Users/MarcosAlberto/git/sos-2015-02/sos-2015-02/war/css/fonts.css",
+		"/C/xampp/htdocs/bootstrap/01intro/index.html",
+		"/C/xampp/htdocs/bootstrap/02grid/estilos.css",
+		"/C/xampp/htdocs/bootstrap/03tipografia/tipografia.html",
+		"/C/Users/MarcosAlberto/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/Users/MarcosAlberto/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/xampp/htdocs/bootstrap/intro/index.html",
+		"/C/Users/MarcosAlberto/Desktop/Entregable Práctica 8/Código/p8MPIlogv1.c",
+		"/C/Users/MarcosAlberto/Google Drive/FAC GRADO/SOS/Prácticas/P5/Practica5.txt",
+		"/C/Users/MarcosAlberto/Google Drive/FAC GRADO/ASD (No completa - Actual)/Prácticas/P7/saludos.c",
+		"/C/Users/MarcosAlberto/Desktop/ingles.txt",
+		"/F/P7ASD/hola_mundo_avanzado.c",
+		"/F/P7ASD/Resolucion.txt",
+		"/C/Users/MarcosAlberto/Downloads/Telegram Desktop/principal_ej3.cpp",
+		"/C/Users/MarcosAlberto/Desktop/asdp6Resuelto/ej3/principal_ej3.cpp",
+		"/F/Juegos/Dragon Age Origins/agbgame.com_AGB.nfo",
+		"/C/Users/MarcosAlberto/Downloads/marcosginelcom.wordpress.2015-04-07.xml",
+		"/D/Dropbox/IbonitaEnMarcos/LSO/ApuntesTema1.txt",
+		"/C/Program Files (x86)/Steam/SteamApps/downloading/state_4570_4571.patch",
+		"/C/Program Files (x86)/Steam/SteamApps/temp/4570/instscript.vdf"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"@media",
+			"@media (min-width: 768px)\n.container-fluid>.navbar-collapse,",
+			"@media(min-width: 768px).container-fluid>.navbar-collapse",
+			"@media(min-width: 768px).container-fluid>.navbar-collapse,",
+			"@media",
+			"	.",
+			"@media",
+			"miarray",
+			"180",
+			"script",
+			"jquery",
+			"src",
+			"jquery",
+			"jquery-",
+			"767",
+			"display: none",
+			"collaps",
+			"coll",
+			"collaps",
+			"collapse",
+			"collapsed",
+			"collapsted",
+			"http://inicial",
+			"media",
+			"text-car",
+			"text-",
+			"text-car",
+			"text-carr",
+			"text-ca",
+			"@media",
+			"tr",
+			"tr.big",
+			"show",
+			"toggleinfo",
+			"entry show",
+			"toggleinfo",
+			"color_nevada_approx",
+			"hover",
+			"333",
+			"th",
+			"333",
+			"th",
+			"color_tuna_approx",
+			"$color_tuna_approx",
+			"#363940",
+			"save",
+			"color_cabecera",
+			"color_cerulean_approx",
+			"$color_cerulean_approx",
+			"color_tuna_approx",
+			"color_cerulean_approx",
+			"$color_cerulean_approx",
+			"owl",
+			"segundo",
+			"992",
+			"@media",
+			"iframe",
+			"@media",
+			"p class=\"infol",
+			"thead",
+			"text-",
+			"text-ca",
+			"table",
+			"<p class=\"infolinks\"",
+			"bibtext",
+			"Bibtext",
+			"BiBText",
+			"jquery-ui",
+			".js",
+			"font",
+			"text-ca",
+			"#cta-section",
+			"section",
+			"PPINOT",
+			"section",
+			"test",
+			"testi",
+			"testim",
+			"car",
+			"Themetori",
+			"text-ca",
+			"#cta-section",
+			"about-section",
+			"size",
+			".*\\n.*\\n",
+			"Maurit",
+			"Afghanistan",
+			"Mauritius",
+			";",
+			",",
+			";",
+			",",
+			";;;;;;;;;;;;;;",
+			",,,",
+			",,",
+			";",
+			"ignore",
+			"92.222.220.175",
+			"444",
+			"92.222.220.175",
+			"ProposicionCurso",
+			"plantilla",
+			"entrenamiento",
+			"doc_bu",
+			"video707378/cute_bitches_2",
+			"roxxx",
+			"Light"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"arrayHerramientas",
+			"color_por_defecto_hover",
+			"color_por_defecto",
+			"color_cabecera",
+			"$color_cabecera",
+			"color_primario",
+			"fondo_footer",
+			"",
+			",",
+			"",
+			",",
+			"",
+			",",
+			"127.0.0.1"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "beli.sublime-project",
+	"replace":
+	{
+		"height": 98.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 263.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
