@@ -1297,7 +1297,7 @@ iframe {
 
 
 
-@media(min-width:993px) {
+@media(min-width:767px) {
 	.responsive-iframe-container iframe,   
 	.vresponsive-iframe-container object,  
 	.vresponsive-iframe-container embed {

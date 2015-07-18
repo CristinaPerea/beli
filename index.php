@@ -188,14 +188,14 @@
                 <div class="page-header-wrapper">
                     <div class="container">
                         <div class="page-header text-center wow fadeInUp" data-wow-delay="0.3s">
+                            <div class="extra-space-l"></div>
                             <div id="row" class="selectores-drive">
-                                <div class="extra-space-l"></div>
                                 <button id="boton-vista-drive-file-wp1" class="btn btn-default"><span class="icon-file-text2"></span></button>
                                 <button id="boton-vista-drive-list-wp1" class="btn"><span class="icon-list"></span></button>
                             </div>
                             <div class="extra-space-l"></div>
                             <div id="row">
-                                <div class="responsive-iframe-container"><iframe id="iframe-recursos" src="https://drive.google.com/embeddedfolderview?id=0B777mNcRbpXNflViWEVjWmNXUGpHTWJvN3hJZEc1a1dxTjA4c0FvM1pTOHNNLWZNbjNTWm8#grid" width="800" height="500" frameborder="1"></iframe></div>
+                                <div class="responsive-iframe-container"><iframe id="iframe-recursos-wp1" src="https://drive.google.com/embeddedfolderview?id=0B777mNcRbpXNflViWEVjWmNXUGpHTWJvN3hJZEc1a1dxTjA4c0FvM1pTOHNNLWZNbjNTWm8#grid" width="800" height="500" frameborder="1"></iframe></div>
                             </div>
                         </div>
                     </div>
@@ -258,7 +258,7 @@
                             </div>
                             <div class="extra-space-l"></div>
                             <div id="row">
-                                <div class="responsive-iframe-container"><iframe id="iframe-recursos" src="https://drive.google.com/embeddedfolderview?id=0B777mNcRbpXNfm43X3owdEpEX2JDeS03RGFnYmZSaVdFalNWZW9FSXlPeWNOUHMtMmVveHc#grid" width="800" height="500" frameborder="1"></iframe></div>
+                                <div class="responsive-iframe-container"><iframe id="iframe-recursos-wp2" src="https://drive.google.com/embeddedfolderview?id=0B777mNcRbpXNfm43X3owdEpEX2JDeS03RGFnYmZSaVdFalNWZW9FSXlPeWNOUHMtMmVveHc#grid" width="800" height="500" frameborder="1"></iframe></div>
                             </div>
                         </div>
                     </div>
@@ -313,14 +313,14 @@
                 <div class="page-header-wrapper">
                     <div class="container">
                         <div class="page-header text-center wow fadeInUp" data-wow-delay="0.3s">
+                            <div class="extra-space-l"></div>
                             <div id="row" class="selectores-drive">
-                                <div class="extra-space-l"></div>
                                 <button id="boton-vista-drive-file-wp3" class="btn btn-default"><span class="icon-file-text2"></span></button>
                                 <button id="boton-vista-drive-list-wp3" class="btn"><span class="icon-list"></span></button>
                             </div>
                             <div class="extra-space-l"></div>
                             <div id="row">
-                                <div class="responsive-iframe-container"><iframe id="iframe-recursos" src="https://drive.google.com/embeddedfolderview?id=0B777mNcRbpXNfm10aExWSmNXQ3l6ZF9UWDdaODd5cjAzbnRnVUJuVXh0X3NlSm5wMDJvNEU#grid" width="800" height="500" frameborder="1"></iframe></div>
+                                <div class="responsive-iframe-container"><iframe id="iframe-recursos-wp3" src="https://drive.google.com/embeddedfolderview?id=0B777mNcRbpXNfm10aExWSmNXQ3l6ZF9UWDdaODd5cjAzbnRnVUJuVXh0X3NlSm5wMDJvNEU#grid" width="800" height="500" frameborder="1"></iframe></div>
                             </div>
                         </div>
                     </div>
@@ -382,7 +382,7 @@
                             </div>
                             <div class="extra-space-l"></div>
                             <div id="row">
-                                <div class="responsive-iframe-container"><iframe id="iframe-recursos" src="https://drive.google.com/embaddedfolderview?id=0B777mNcRbpXNfnNYWmRGNklyUkllb2J0bkctbUVaWlEtUVJJakZNUnlPNmI1bHo4cWZuZDQ#grid" width="800" height="500" frameborder="1"></iframe></div>
+                                <div class="responsive-iframe-container"><iframe id="iframe-recursos-wp4" src="https://drive.google.com/embaddedfolderview?id=0B777mNcRbpXNfnNYWmRGNklyUkllb2J0bkctbUVaWlEtUVJJakZNUnlPNmI1bHo4cWZuZDQ#grid" width="800" height="500" frameborder="1"></iframe></div>
                             </div>
                         </div>
                     </div>
@@ -445,7 +445,7 @@
                             </div>
                             <div class="extra-space-l"></div>
                             <div id="row">
-                                <div class="responsive-iframe-container"><iframe id="iframe-recursos" src="https://drive.google.com/embeddedfolderview?id=0B777mNcRbpXNfnF1ak80MTI0c1ZJMng3bzhOVXpIc3ZNZGpfY3VqNHZwcVZzM0ZkcmNhY0k#grid" width="800" height="500" frameborder="1"></iframe></div>
+                                <div class="responsive-iframe-container"><iframe id="iframe-recursos-wp5" src="https://drive.google.com/embeddedfolderview?id=0B777mNcRbpXNfnF1ak80MTI0c1ZJMng3bzhOVXpIc3ZNZGpfY3VqNHZwcVZzM0ZkcmNhY0k#grid" width="800" height="500" frameborder="1"></iframe></div>
                             </div>
                         </div>
                     </div>
