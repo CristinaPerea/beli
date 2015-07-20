@@ -120,16 +120,16 @@
                     </div>
                 </div>
             </section>
-            <section id="cta-section4-inicio">
+            <section id="cta-section42-inicio">
                 <div class="cta">
                     <div class="container">
                         <div class="row">
                             <div class="page-header-wrapper first-section">
                                 <div class="container">
                                     <div class="page-header text-center wow fadeInUp" data-wow-delay="0.3s">
-                                    <div class="extra-space-l"></div>
+                                    <!--<div class="extra-space-l"></div>-->
                                         <p class="subtitle"></p>
-                                        <div class="responsive-iframe-container-procedimientos">
+                                        <div class="">
                                             <img class="imagen-google img-responsive" src="https://docs.google.com/drawings/d/1whArjBosNH5S-ekFQxCLwuB-xY2a-jjvlzVfs2jzBgc/pub?w=960&amp;h=720"></img>
                                         </div>
                                     </div>
@@ -148,8 +148,8 @@
                             <div class="page-header-wrapper first-section">
                                 <div class="container">
                                     <div class="page-header text-center wow fadeInUp" data-wow-delay="0.3s">
-                                    <div class="extra-space-l"></div>
-                                    <div class="extra-space-l"></div>
+                                    <!--<div class="extra-space-l"></div>
+                                    <div class="extra-space-l"></div>-->
                                     <div class="extra-space-l"></div>
                                         <h2>Paquete de trabajo 1</h2>
                                         <div class="devider"></div>
@@ -164,16 +164,16 @@
                     </div>
                 </div>
             </section>
-            <section id="cta-section4-wp1">
+            <section id="cta-section42-wp1">
                 <div class="cta">
                     <div class="container">
                         <div class="row">
                             <div class="page-header-wrapper first-section">
                                 <div class="container">
                                     <div class="page-header text-center wow fadeInUp" data-wow-delay="0.3s">
-                                    <div class="extra-space-l"></div>
+                                    <!--<div class="extra-space-l"></div>-->
                                         <p class="subtitle"></p>
-                                        <div class="responsive-iframe-container-procedimientos">
+                                        <div class="">
                                             <img class="imagen-google img-responsive" src="https://docs.google.com/drawings/d/1AGuc5A1AZNCQbFAJMMSzVbm8IxyRzROVPjeVBLqyEtQ/pub?w=667&amp;h=421"></img>
                                         </div>
                                     </div>
@@ -211,8 +211,8 @@
                             <div class="page-header-wrapper first-section">
                                 <div class="container">
                                     <div class="page-header text-center wow fadeInUp" data-wow-delay="0.3s">
-                                    <div class="extra-space-l"></div>
-                                    <div class="extra-space-l"></div>
+                                    <!--<div class="extra-space-l"></div>
+                                    <div class="extra-space-l"></div>-->
                                     <div class="extra-space-l"></div>
                                         <h2>Paquete de trabajo 2</h2>
                                         <div class="devider"></div>
@@ -227,16 +227,16 @@
                     </div>
                 </div>
             </section>
-            <section id="cta-section4-wp2">
+            <section id="cta-section42-wp2">
                 <div class="cta">
                     <div class="container">
                         <div class="row">
                             <div class="page-header-wrapper first-section">
                                 <div class="container">
                                     <div class="page-header text-center wow fadeInUp" data-wow-delay="0.3s">
-                                    <div class="extra-space-l"></div>
+                                    <!--<div class="extra-space-l"></div>-->
                                         <p class="subtitle"></p>
-                                        <div class="responsive-iframe-container-procedimientos">
+                                        <div class="">
                                             <img class="imagen-google img-responsive" src="https://docs.google.com/drawings/d/1T7C26U8O_mHYKSCZm99dFOEDF_7xQfRCVolPL23OzpQ/pub?w=667&amp;h=421"></img>
                                         </div>
                                     </div>
@@ -273,8 +273,8 @@
                             <div class="page-header-wrapper first-section">
                                 <div class="container">
                                     <div class="page-header text-center wow fadeInUp" data-wow-delay="0.3s">
-                                    <div class="extra-space-l"></div>
-                                    <div class="extra-space-l"></div>
+                                    <!--<div class="extra-space-l"></div>
+                                    <div class="extra-space-l"></div>-->
                                     <div class="extra-space-l"></div>
                                         <h2>Paquete de trabajo 3</h2>
                                         <div class="devider"></div>
@@ -289,16 +289,16 @@
                     </div>
                 </div>
             </section>
-            <section id="cta-section4-wp3">
+            <section id="cta-section42-wp3">
                 <div class="cta">
                     <div class="container">
                         <div class="row">
                             <div class="page-header-wrapper first-section">
                                 <div class="container">
                                     <div class="page-header text-center wow fadeInUp" data-wow-delay="0.3s">
-                                    <div class="extra-space-l"></div>
+                                    <!--<div class="extra-space-l"></div>-->
                                         <p class="subtitle"></p>
-                                        <div class="responsive-iframe-container-procedimientos">
+                                        <div class="">
                                             <img class="imagen-google img-responsive" src="https://docs.google.com/drawings/d/1o3YZt0_k9S3XrloxtU_7zIqzrZdbyTElinQfe2B5xmw/pub?w=667&amp;h=421"></img>
                                         </div>
                                     </div>
@@ -335,8 +335,8 @@
                             <div class="page-header-wrapper first-section">
                                 <div class="container">
                                     <div class="page-header text-center wow fadeInUp" data-wow-delay="0.3s">
-                                    <div class="extra-space-l"></div>
-                                    <div class="extra-space-l"></div>
+                                    <!--<div class="extra-space-l"></div>
+                                    <div class="extra-space-l"></div>-->
                                     <div class="extra-space-l"></div>
                                         <h2>Paquete de trabajo 4</h2>
                                         <div class="devider"></div>
@@ -351,16 +351,16 @@
                     </div>
                 </div>
             </section>
-            <section id="cta-section4-wp4">
+            <section id="cta-section42-wp4">
                 <div class="cta">
                     <div class="container">
                         <div class="row">
                             <div class="page-header-wrapper first-section">
                                 <div class="container">
                                     <div class="page-header text-center wow fadeInUp" data-wow-delay="0.3s">
-                                    <div class="extra-space-l"></div>
+                                    <!--<div class="extra-space-l"></div>-->
                                         <p class="subtitle"></p>
-                                        <div class="responsive-iframe-container-procedimientos">
+                                        <div class="">
                                             <img class="imagen-google img-responsive" src="https://docs.google.com/drawings/d/1ymAulW8W4SmsVNM2GlcMAm-D_EUHX12PM09AZ0Q8JV4/pub?w=667&amp;h=421"></img>
                                         </div>
                                     </div>
@@ -398,8 +398,8 @@
                             <div class="page-header-wrapper first-section">
                                 <div class="container">
                                     <div class="page-header text-center wow fadeInUp" data-wow-delay="0.3s">
-                                    <div class="extra-space-l"></div>
-                                    <div class="extra-space-l"></div>
+                                    <!--<div class="extra-space-l"></div>
+                                    <div class="extra-space-l"></div>-->
                                     <div class="extra-space-l"></div>
                                         <h2>Paquete de trabajo 5</h2>
                                         <div class="devider"></div>
@@ -414,16 +414,17 @@
                     </div>
                 </div>
             </section>
-            <section id="cta-section4-wp5">
+            
+            <section id="cta-section42-wp5">
                 <div class="cta">
                     <div class="container">
                         <div class="row">
                             <div class="page-header-wrapper first-section">
                                 <div class="container">
                                     <div class="page-header text-center wow fadeInUp" data-wow-delay="0.3s">
-                                    <div class="extra-space-l"></div>
+                                    <!--<div class="extra-space-l"></div>-->
                                         <p class="subtitle"></p>
-                                        <div class="responsive-iframe-container-procedimientos">
+                                        <div class="">
                                             <img class="imagen-google img-responsive" src="https://docs.google.com/drawings/d/1OCKTnCwWkjWJIqbXkxe3HhFbtDprVqU4Q2adpLd_qTA/pub?w=667&amp;h=421"></img>
                                         </div>
                                     </div>
